@@ -2,6 +2,7 @@
 title = Online Clicker
 package.name = onlineclicker
 package.domain = org.example
+source.dir = .
 version = 1.0
 entrypoint = main.py
 source.include_exts = py,png,kv,atlas
